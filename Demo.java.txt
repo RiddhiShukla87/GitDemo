@@ -4,6 +4,7 @@ class Demo {
    System.out.println("Hello");
    System.out.println("Good afternoon");
    System.out.println("Bye");
-System.out.println("THank YOu");
+   System.out.println("THank YOu");
+   System.out.println("See you tommorow!");
 }
 }
