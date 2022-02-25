@@ -3,6 +3,7 @@ class Demo {
 
    System.out.println("Hello");
    System.out.println("Good afternoon");
+   System.out.println("How are you doing");
 
 }
 }
